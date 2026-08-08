@@ -1,0 +1,7 @@
+{
+  "name": "wallet-core",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "libsodium"
+  ]
+}

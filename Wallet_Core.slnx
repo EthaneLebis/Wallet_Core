@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Wallet_Core.vcxproj" Id="c423e404-e262-44e9-9ecc-5efdc215d573" />
+</Solution>
